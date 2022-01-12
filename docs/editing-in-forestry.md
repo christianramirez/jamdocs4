@@ -1,7 +1,7 @@
 ---
 title: Governor's War
 date: 2020-01-02
-slug: forestry-cms
+slug: governors-war
 
 ---
 ## Import starter
